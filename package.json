@@ -1,0 +1,22 @@
+{
+  "name": "webpack2-sample",
+  "version": "1.0.0",
+  "description": "make webpack2 sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feats-choi/webpack2-sample.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/feats-choi/webpack2-sample/issues"
+  },
+  "homepage": "https://github.com/feats-choi/webpack2-sample#readme",
+  "dependencies": {
+    "webpack": "^2.5.1"
+  }
+}
